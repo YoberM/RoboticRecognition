@@ -7,7 +7,7 @@ To reproduce the project
 - install dependencies that are on requirements.txt
 - use the virtual enviroment
 - run the applitacion, Recognition.py [file]
-- The file should be a video and should be located con Videos folder
+- An example of file "Video.mp4", the file should be located con Videos folder
 
 
 # YOLOV3
