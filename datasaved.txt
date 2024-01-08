@@ -1,0 +1,2 @@
+{'bench', 'backpack', 'truck', 'fire hydrant', 'train', 'umbrella', 'car', 'cell phone', 'handbag', 'keyboard', 'person'}
+{'backpack', 'fire hydrant', 'umbrella', 'handbag', 'person'}
