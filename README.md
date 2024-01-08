@@ -6,7 +6,7 @@ To reproduce the project
 - Create a virtual environment
 - install dependencies that are on requirements.txt
 - use the virtual enviroment
-- run the applitacion, Recognition.py [file]
+- run the application using the command Recognition.py [file]
 - An example of file "Video.mp4", the file should be located con Videos folder
 
 
