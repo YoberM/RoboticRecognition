@@ -2,6 +2,7 @@
 An python app that process videos with YOLO to detect trash 
 
 To reproduce the project
+- Download Yolov3.cfg and weights, those files can be downloaded on https://pjreddie.com/darknet/yolo/
 - Create a virtual environment
 - install dependencies that are on requirements.txt
 - use the virtual enviroment
